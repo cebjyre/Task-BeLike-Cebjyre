@@ -26,6 +26,8 @@ Also gives us Moose
 
 =pkg File::chdir
 
+=pkg JSON
+
 =pkg Log::Log4perl
 
 =pkg Module::Find

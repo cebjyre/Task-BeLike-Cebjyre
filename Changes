@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Added JSON
 
 0.0.1     2010-11-05 15:28:12 Australia/Sydney
     Initial build
