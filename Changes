@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    More Email stuff, and corrected where Moose came from
 
 0.1.0     2010-11-09 11:56:49 Australia/Sydney
     Added JSON

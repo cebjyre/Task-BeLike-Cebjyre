@@ -6,11 +6,17 @@ package Task::BeLike::Cebjyre;
 
 =pkgroup Email stuff
 
+=pkg Email::MIME
+
 =pkg Email::Sender
 
-Also gives us Moose
+Also gives us Moose and Email::Address
+
+=pkg Mail::IMAPClient 3.21 it introduced xlist_folders
 
 =pkg MIME::Parser
+
+=pkg Net::Server::Mail
 
 =pkgroup Data Access
 
