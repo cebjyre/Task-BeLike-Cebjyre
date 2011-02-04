@@ -8,9 +8,9 @@ package Task::BeLike::Cebjyre;
 
 =pkg Email::Sender
 
-=pkg MIME::Parser
-
 Also gives us Moose
+
+=pkg MIME::Parser
 
 =pkgroup Data Access
 
