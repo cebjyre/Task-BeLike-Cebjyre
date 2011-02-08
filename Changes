@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Added ack
 
 0.2.0     2011-02-04 19:20:38 Australia/Sydney
     More Email stuff, and corrected where Moose came from

@@ -28,6 +28,10 @@ Also gives us Moose and Email::Address
 
 =pkg CGI::Session
 
+=pkgroup CLI tools
+
+=pkg App::Ack
+
 =pkgroup Misc
 
 =pkg File::chdir
