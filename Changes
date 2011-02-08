@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.3.0     2011-02-08 12:45:36 Australia/Sydney
     Added ack
 
 0.2.0     2011-02-04 19:20:38 Australia/Sydney
