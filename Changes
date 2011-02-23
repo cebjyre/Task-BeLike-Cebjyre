@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Added MongoDB (& unlisted prereq Try::Tiny)
 
 0.3.1     2011-02-11 20:57:48 Australia/Sydney
     Stop doubling up of sections in POD
