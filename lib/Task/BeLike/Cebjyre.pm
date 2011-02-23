@@ -24,6 +24,13 @@ Also gives us Moose and Email::Address
 
 =pkg Net::LDAP
 
+=pkg MongoDB
+
+=pkg Try::Tiny
+
+Note: This is used in the test phase of MongoDB but is not
+listed as a prereq yet; should be fixed in MongoDB 0.43.
+
 =pkgroup The Interwebs
 
 =pkg CGI::Session
