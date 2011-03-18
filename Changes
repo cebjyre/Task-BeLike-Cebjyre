@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.5.0     2011-03-18 14:45:51 Australia/Sydney
     Added my modules, Net::OAuth, and some test modules
 
 0.4.0     2011-02-23 12:08:32 Australia/Sydney
