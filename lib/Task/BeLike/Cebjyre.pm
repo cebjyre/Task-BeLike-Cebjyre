@@ -35,9 +35,17 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg CGI::Session
 
+=pkg Net::OAuth
+
 =pkgroup CLI tools
 
 =pkg App::Ack
+
+=pkgroup Testing
+
+=pkg Test::Pod
+
+=pkg Test::Pod::Coverage
 
 =pkgroup Misc
 
@@ -58,6 +66,16 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 =pkg Tie::SecureHash
 
 =pkg XML::Quote
+
+=pkgroup My modules
+
+=pkg Dist::Zilla::PluginBundle::CEBJYRE
+
+=pkg Net::Google::FederatedLogin
+
+=pkg Test::ConsistentVersion
+
+=pkg Versionify::Dispatch
 
 =cut
 
