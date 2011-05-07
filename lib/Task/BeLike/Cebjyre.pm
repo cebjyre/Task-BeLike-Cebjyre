@@ -77,6 +77,8 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg Versionify::Dispatch
 
+=pkg App::Whatsit
+
 =cut
 
 1;
