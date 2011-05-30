@@ -4,6 +4,18 @@ package Task::BeLike::Cebjyre;
 
 # ABSTRACT: Modules I find handy from time to time...
 
+=pkgroup CPAN shell
+
+=pkg Term::ReadLine::Perl
+
+=pkg YAML
+
+=pkgroup CPAN Testing (autotest modules as they are installed)
+
+=pkg CPAN::Reporter
+
+=pkg Test::Reporter::Transport::Metabase
+
 =pkgroup Email stuff
 
 =pkg Email::MIME
@@ -41,7 +53,9 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg App::Ack
 
-=pkgroup Testing
+=pkgroup Development and Testing
+
+=pkg Dist::Zilla::Plugin::TaskWeaver
 
 =pkg Test::Pod
 
