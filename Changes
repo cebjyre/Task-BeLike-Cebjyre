@@ -2,6 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.7.0     2011-05-30 10:53:17 Australia/Sydney
+    Added Dist::Zilla::Plugin::TaskWeaver (exclusively for making this module).
+    Added modules for making the CPAN shell more friendly, and autotesting installed modules.
+
 0.6.0     2011-05-07 14:53:11 America/Los_Angeles
     Added App::Whatsit
 
