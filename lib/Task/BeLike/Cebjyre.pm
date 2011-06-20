@@ -49,6 +49,8 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg Net::OAuth
 
+=pkg LWP::Protocol::https
+
 =pkgroup CLI tools
 
 =pkg App::Ack

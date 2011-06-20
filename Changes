@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Added LWP::Protocol::https (SSL is handy)
 
 0.7.0     2011-05-30 10:53:17 Australia/Sydney
     Added Dist::Zilla::Plugin::TaskWeaver (exclusively for making this module).
