@@ -2,7 +2,11 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.9.1     2011-08-15 20:44:14 Australia/Sydney
+    Fixed changelog for 0.9.0
+
 0.9.0     2011-08-15 20:42:15 Australia/Sydney
+    Added Pod::Coverage::TrustPod
 
 0.8.0     2011-06-20 12:20:17 Australia/Sydney
     Added LWP::Protocol::https (SSL is handy)
