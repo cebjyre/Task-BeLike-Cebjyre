@@ -63,6 +63,8 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg Test::Pod::Coverage
 
+=pkg Pod::Coverage::TrustPod
+
 =pkgroup Misc
 
 =pkg File::chdir
