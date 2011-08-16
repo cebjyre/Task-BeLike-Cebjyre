@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Added App::Base64
 
 0.9.1     2011-08-15 20:44:14 Australia/Sydney
     Fixed changelog for 0.9.0

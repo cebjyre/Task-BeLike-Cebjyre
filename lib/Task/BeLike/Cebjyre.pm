@@ -97,6 +97,8 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkg App::Whatsit
 
+=pkg App::Base64
+
 =cut
 
 1;
