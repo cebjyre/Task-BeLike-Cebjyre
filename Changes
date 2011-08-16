@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+1.0.0     2011-08-16 15:01:02 Australia/Sydney
     Added App::Base64
 
 0.9.1     2011-08-15 20:44:14 Australia/Sydney
