@@ -2,6 +2,9 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+1.0.1     2013-08-05 12:49:04 Australia/Sydney
+    Specifying min version for Dist::Zilla::PluginBundle::CEBJYRE
+
 1.0.0     2011-08-16 15:01:02 Australia/Sydney
     Added App::Base64
 
