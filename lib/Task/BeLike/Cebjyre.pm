@@ -87,7 +87,7 @@ listed as a prereq yet; should be fixed in MongoDB 0.43.
 
 =pkgroup My modules
 
-=pkg Dist::Zilla::PluginBundle::CEBJYRE
+=pkg Dist::Zilla::PluginBundle::CEBJYRE 0.4.0
 
 =pkg Net::Google::FederatedLogin
 
