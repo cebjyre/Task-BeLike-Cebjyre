@@ -2,6 +2,9 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+1.0.2     2013-08-06 16:07:00 Australia/Sydney
+    Switching this dist to Build rather than MM per https://github.com/rjbs/Dist-Zilla/issues/171#issuecomment-22158881
+
 1.0.1     2013-08-05 12:49:04 Australia/Sydney
     Specifying min version for Dist::Zilla::PluginBundle::CEBJYRE
 
